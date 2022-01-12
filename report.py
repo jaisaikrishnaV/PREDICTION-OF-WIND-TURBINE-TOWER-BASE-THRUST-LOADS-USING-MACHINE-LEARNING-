@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
+
 Created on Thu Nov 11 02:02:34 2021
 
 @author: jaisa
